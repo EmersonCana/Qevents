@@ -1,0 +1,52 @@
+
+@font-face {
+    font-family: Roboto;
+    src: url('https://fonts.googleapis.com/css?family=Roboto');
+}
+body {
+    font-family: Roboto;
+    background-image: linear-gradient(#FFC301, #FFCC00);
+}
+.card-img{
+
+    width: 350px;
+}
+
+.star{
+        color: red;
+}
+
+.bg-cart {
+    background-color:orange;
+    color:#fff;
+}
+
+.bg-cart:hover {
+    
+    color:#fff;
+}
+
+.bg-buy {
+    background-color:green;
+    color:#fff;
+    padding-right: 29px;
+}
+.bg-buy:hover {
+    
+    color:#fff;
+}
+
+.bg-navbar {
+    background-color: #FFC301;
+}
+
+.carousel-dimension {
+    max-height: 400px;
+}
+
+.custom-title {
+    background-color: #FA5908;
+    color: white;
+    padding: 30px;
+    max-width: 300px;
+}
